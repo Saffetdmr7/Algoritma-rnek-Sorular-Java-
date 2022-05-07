@@ -2,7 +2,7 @@ package algoritmalabödevler;
 
 import java.util.Scanner;
 
-public class Algoritmalabödev4 {
+public class OrtaBul {
     
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
