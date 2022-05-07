@@ -7,7 +7,7 @@ package algoritmalabödevler;
  */
 import java.util.Scanner;
 
-public class Algoritmalabödev6 {
+public class ParolaKontrol {
 
     public static void main(String[] args) {
         System.out.println("/*\n"
