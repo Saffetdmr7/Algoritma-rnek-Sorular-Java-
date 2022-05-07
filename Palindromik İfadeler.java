@@ -2,7 +2,7 @@ package algoritmalabödevler;//@Saffetdmr7
 
 import java.util.Scanner;
 
-public class Algoritmalabödev1 {
+public class Palindrom {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);//Klavye tanımlanması
