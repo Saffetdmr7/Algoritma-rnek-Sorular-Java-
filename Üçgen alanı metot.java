@@ -6,7 +6,7 @@ package algoritmalabödevler;
 
 import java.util.Scanner;
 
-public class Algoritmalabödev5 {
+public class ÜçgenAlan {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
